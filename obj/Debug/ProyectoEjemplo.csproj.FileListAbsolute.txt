@@ -1,0 +1,11 @@
+C:\Users\cris_\source\repos\ProyectoEjemplo\bin\Debug\ProyectoEjemplo.exe.config
+C:\Users\cris_\source\repos\ProyectoEjemplo\bin\Debug\ProyectoEjemplo.exe
+C:\Users\cris_\source\repos\ProyectoEjemplo\bin\Debug\ProyectoEjemplo.pdb
+C:\Users\cris_\source\repos\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.csproj.AssemblyReference.cache
+C:\Users\cris_\source\repos\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\cris_\source\repos\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.Form1.resources
+C:\Users\cris_\source\repos\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.Properties.Resources.resources
+C:\Users\cris_\source\repos\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.csproj.GenerateResource.cache
+C:\Users\cris_\source\repos\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\cris_\source\repos\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.exe
+C:\Users\cris_\source\repos\ProyectoEjemplo\obj\Debug\ProyectoEjemplo.pdb
